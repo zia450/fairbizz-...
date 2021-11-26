@@ -1,0 +1,1538 @@
+@media (min-width:1200px) and (max-width:1600px){}
+
+
+@media (min-width:992px) and (max-width:1199px){
+
+	.menu-area {
+		padding: 10px;
+		margin-bottom: -77px;
+	}	
+	.menu ul li a {
+		font-size: 14px;
+	}
+	.menu ul li {
+		padding: 15px 0;
+	}
+	.menu-btn .btn {
+		margin-top: 0px;
+	}
+	.single-slider {
+		height: 600px;
+	}
+	.slider-text {
+		transform: translateY(85%);
+		padding: 0 80px;
+	}
+	.slider-area .slick-dots {
+		bottom: -8px;
+	}
+	.slider-text h2 {
+		font-size: 40px;
+		margin-bottom:20px;
+	}
+	.slider-text p {
+		font-size: 14px;
+		margin-bottom: 30px;
+	}
+	.single-about-2 {
+		padding: 0 0px;
+	}
+	.single-service img {
+		padding: 0 4%;
+	}
+	.service-area .arrowPrev.slick-arrow {
+		margin-left: 785px;
+	}
+	.service-area .arrowNext.slick-arrow {
+		margin-left: 860px;
+	}
+	.video-text {
+		margin-top: 30%;
+	}
+	.consultant p {
+		font-size: 23px;
+	}
+	.faq-img img {
+		margin-left: -62px;
+		width: 141%;
+	}
+	.faq-area .section-title {
+		margin-bottom: 30px;
+	}
+	.section-title h4 {
+		font-size: 45px;
+		margin-bottom: 30px;
+		line-height: 50px;
+	}
+	.question-answer-1, .question-answer-2, .question-answer-3 {
+		padding: 15px 25px;
+	}
+	.answer-1, .answer-2, .answer-3 {
+		font-size: 16px;
+	}
+	.blog-img img {
+		width: 115%;
+	}
+	.blog-text {
+		padding: 13px 17px;
+	}
+	.blog-text h4 a {
+		font-size: 16px;
+		font-weight: 600;
+		line-height: 23px;
+	}
+	.blog-text span {
+		font-size: 13px;
+		margin-bottom: 21px;
+	}
+	.widged-1{
+		margin-right:40px;
+	}
+
+}
+
+	
+@media (min-width:768px) and (max-width:991px){
+	
+	.top-header-area p {
+		font-size: 13px;
+	}	
+	.single-cta {
+		margin-left: 37px;
+	}
+	.menu-area {
+		background: transparent;
+	}
+	.mean-container .mean-bar {
+		background: transparent;
+		top: 0;
+		right: -50px;
+	}
+	.mean-container a.meanmenu-reveal {
+		width: 24px;
+		height: 12px;
+		background: #08237e;
+		top: -50px;
+		padding: 24px 13px 11px;
+	}
+	.menu-btn .btn {
+		margin-right: 50px;
+	}
+	.single-slider {
+		height: 450px;
+	}
+	.slider-text {
+		transform: translateY(35%);
+		margin-left: 35px;
+	}
+	.slider-text h2 {
+		font-size: 38px;
+		margin-bottom: 15px;
+	}
+	.slider-text p {
+		font-size: 14px;
+		margin-bottom: 30px;
+	}
+	.about-area {
+		padding: 80px 0;
+	}
+	.section-title h4 {
+		font-size: 40px;
+		margin-bottom:30px;
+	}
+	.about-area .section-title span {
+		font-size: 24px;
+		line-height: 35px;
+	}
+	.about-description {
+		margin-top: 30px;
+	}
+	.single-about {
+		margin-top: 70px;
+	}
+	.single-about-2 {
+		padding: 0;
+	}
+	.service-area {
+		padding: 70px 0 120px 0;
+	}
+	.single-service img {
+		width: 100%;
+		padding: 0 3%;
+	}
+	.service-area .arrowPrev.slick-arrow {
+		top: 88%;
+		margin-left: 540px;
+	}
+	.service-area .arrowNext.slick-arrow {
+		top: 88%;
+		margin-left: 620px;
+	}
+	.video-area {
+		height: 430px;
+	}
+	.video-area span {
+		font-size: 20px;
+	}
+	.video-area h2 {
+		font-size: 35px;
+	}
+	.video-text {
+		margin-top: 30%;
+	}
+	.portfolio-section {
+		padding: 65px 0 95px 0;
+	}
+	.portfolio-section .section-title h4 {
+		margin-bottom: 15px;
+	}
+	.portfolio-section .arrows {
+		float: right;
+	}
+	.portfolio-section .left-arrow, .right-arrow {
+		margin-top: 107px;
+	}
+	.brand-area {
+		padding: 120px 0 90px 0;
+	}
+	.faq-area {
+		padding: 0 0 75px 0;
+	}
+	.faq-img img {
+		width: 55%;
+		margin-left: 130px;
+	}
+	.faq-text {
+		margin-top: 70px;
+	}
+	.single-portfolio h5 {
+		font-size: 17px;
+		margin-bottom: 30px;
+	}
+	.consultant p {
+		font-size: 20px;
+		line-height: 28px;
+	}
+	.consultant h6 {
+		font-size: 15px;
+		margin-bottom: 10px;
+	}
+	.consultant-text {
+		top: 210px;
+	}
+	.consultation-form {
+		padding: 45px;
+		margin-top: -50px;
+		margin-bottom: -50px;
+	}
+	.consultation-form h4 {
+		font-size: 25px;
+	}
+	.consultation-form input::placeholder {
+		font-size: 13px;
+	}
+	.consultation-form input {
+		width: 300px;
+		height: 50px;
+		margin-bottom: 25px;
+		padding: 0 20px;
+		font-size: 13px;
+	}
+	.consultation-area .nice-select {
+		font-size: 13px;
+	}
+	.consultation-area .nice-select .option {
+		line-height: 43px;
+		width: 230px;
+	}
+	.consultation-area .nice-select {
+		font-size: 13px;
+		height: 50px;
+		line-height: 50px;
+		padding-left: 0px;
+		width: 190px;
+	}
+	.select {
+		left: 80px;
+	}
+	.consultation-area .nice-select::after {
+		right: -5px;
+	}
+	.consultation-form textarea::placeholder {
+		font-size: 13px;
+	}
+	.consultation-form textarea {
+		width: 300px;
+		height: 150px;
+		padding: 20px 20px;
+		font-size: 13px;
+	}
+	.consultant-active {
+		padding: 127px 0 0px 0;
+	}
+	.consultation-area .l-arrow, .r-arrow {
+		display: inline-block;
+	}
+	.blog-area {
+		padding: 80px 0 100px;
+	}
+	.blog-img img{
+		width: 109%;
+	}
+	.blog-text {
+		padding: 49px 55px;
+		background: #fff;
+	}
+	.blog-area .mb-50 {
+		margin-bottom: 55px;
+	}
+	.footer-area {
+		padding-top: 90px;
+	}
+	.footer-area {
+		height: 1080px;
+	}
+	.widged-1 {
+		margin-bottom: 60px;
+	}
+	.widged-3 {
+		margin-top: 40px;
+	}
+	.footer-bottom p {
+		font-size: 13px;
+	}
+	.footer-bottom ul {
+		margin-right: 0px;
+	}
+	.footer-bottom ul li a {
+		font-size: 13px;
+	}
+
+
+}
+
+@media (min-width:576px) and (max-width:767px){
+
+	.top-header-area {
+		padding: 13px 0;
+	}
+	.top-header-area p {
+		font-size: 13px;
+	}
+	.social-icons::before {
+		height: 76px;
+	}
+	.logo {
+		padding: 20px 0;
+	}
+	.cta {
+		float: left;
+	}
+	.single-cta {
+		margin-right: 38px;
+		margin-left:0;
+		float:left;
+	}
+	.menu-area {
+		background: transparent;
+	}
+	.mean-container .mean-bar {
+		background: transparent;
+		top: 0;
+		right: -50px;
+	}
+	.mean-container a.meanmenu-reveal {
+		width: 16px;
+		height: 8px;
+		background: #08237e;
+		top: -48px;
+		padding: 16px 13px 15px;
+	}
+	.menu-btn .btn {
+		margin-right: 50px;
+	}
+	.mean-container .mean-bar {
+		top: 5px;
+	}
+	.menu-btn .btn {
+		padding: 15px 20px;
+		font-size: 11px;
+	}
+	.menu-btn .btn {
+		margin-right: 20px;
+	}
+	.single-slider {
+		height: 360px;
+	}
+	.slider-text {
+		transform: translateY(40%);
+		margin-left: 0;
+	}
+	.slider-text h2 {
+		font-size: 30px;
+		margin-bottom: 15px;
+	}
+	.slider-text p {
+		font-size: 13px;
+		margin-bottom: 20px;
+	}
+	.slider-text .btn {
+		padding: 15px 25px;
+	}
+	.slider-area .slick-dots {
+		bottom: -5px;
+		left: 45%;
+	}
+	.about-area {
+		padding: 70px 0;
+	}
+	.section-title h4 {
+		font-size: 30px;
+		margin-bottom: 20px;
+	}
+	.about-area .section-title span {
+		font-size: 20px;
+		line-height: 32px;
+	}
+	.about-description p {
+		font-size: 13px;
+		margin-top: 17px;
+		line-height: 25px;
+	}
+	.single-about {
+		margin-top: 60px;
+	}
+	.single-about-2 {
+		padding: 0;
+	}
+	.service-area {
+		padding: 60px 0 120px 0;
+	}
+	.service-area .section-title span {
+		font-size: 15px;
+		line-height: 25px;
+	}
+	.single-service img {
+		padding: 0;
+		width: 100%;
+	}
+	.service-area .arrowPrev.slick-arrow {
+		top: 87%;
+		margin-left: 360px;
+	}
+	.service-area .arrowNext.slick-arrow {
+		top: 87%;
+		margin-left: 437px;
+	}
+	.left-arrow, .right-arrow {
+		margin-top: 50px;
+	}
+	.single-portfolio h5 {
+		font-size: 18px;
+		margin-bottom: 30px;
+	}
+	.video-area {
+	height: 560px;
+	}
+	.portfolio-section {
+		padding: 70px 0;
+	}
+	.consultant-active {
+		padding: 70px 0 20px 0;
+	}
+	.consultant-text {
+		top: -35px;
+	}
+	.consultant p {
+		font-size: 20px;
+		margin-bottom: 30px;
+		line-height: 30px;
+	}
+	.consultant-text span {
+		font-size: 12px;
+	}
+	.consultation-area .arrows {
+	margin-top: -65px;
+	}
+	.consultation-form {
+		padding: 63px;
+		margin-top: 0;
+		margin-bottom: 70px;
+	}
+	.consultation-form h4 {
+		font-size: 28px;
+	}
+	.consultation-form input {
+		width: 385px;
+		height: 50px;
+		margin-bottom: 25px;
+		font-size: 14px;
+	}
+	.consultation-form input::placeholder {
+		font-size: 14px;
+	}
+	.select {
+		left: 82px;
+	}
+	.consultation-area .nice-select {
+		font-size: 14px;
+		height: 50px;
+		line-height: 50px;
+		width: 303px;
+	}
+	.consultation-area .nice-select .option {
+	width: 303px;
+	}
+	.consultation-form textarea::placeholder {
+		font-size: 14px;
+	}
+	.consultation-form textarea {
+		width: 385px;
+		height: 165px;
+		margin-bottom: 30px;
+	}
+	.consultation-area .btn {
+		width: 255px;
+		height: 55px;
+		padding-top: 17px;
+		font-size: 13px;
+	}
+	.brand-area {
+		padding: 75px 0;
+	}
+	.faq-area {
+		padding: 0 0 75px 0;
+	}
+	.faq-img img {
+		margin-left: 70px;
+		width: 67%;
+	}
+	.faq-text {
+		margin-top: 75px;
+	}
+	.blog-area {
+		padding: 70px 0;
+	}
+	.blog-text {
+		padding: 26px 26px;
+	}
+	.blog-img img{
+		width:113%;
+	}
+	.blog-text h4 a {
+		font-size: 14px;
+		line-height: 22px;
+	}
+	.blog-text span {
+		font-size: 14px;
+		margin-bottom: 49px;
+	}
+	.read-more a {
+		font-size: 13px;
+	}
+	.blog-area .mb-50{
+		margin-bottom:50px
+	}
+	.footer-area {
+		height: 990px;
+	}
+	.footer-area {
+		padding-top: 75px;
+	}
+	.widged-2 {
+		margin-top: 50px;
+	}
+	.widged-3 {
+		margin-top: 25px;
+	}
+	.footer-bottom {
+		margin-top: 0;
+		padding:15px 0;
+	}
+	.footer-bottom p {
+		font-size: 14px;
+		margin-left: 130px;
+	}
+	.footer-bottom ul {
+		margin-right: 82px;
+	}
+	
+}
+
+
+@media (min-width:450px) and (max-width:575px){
+
+.container{
+	max-width: 420px;
+}	
+.top-header-area p {
+	font-size: 13px;
+	margin-bottom: 15px;
+	text-align: center;
+}
+.social-icons::before {
+	width: 0;
+}
+.social-icons {
+	float: none;
+	display: block;
+	text-align: center;
+}
+.social-icons li {
+	list-style: none;
+	margin: 0 10px;
+	display: inline-block;
+}
+.cta {
+	float: left;
+}
+.single-cta {
+	margin-right: 17px;
+	margin-top: 10px;
+	margin-left: 0;
+}
+.single-cta.meet-hour {
+	margin-right: 0;
+}
+.cta p {
+	font-size: 12px;
+}
+.menu-area {
+	background: transparent;
+}
+.mean-container .mean-bar {
+	background: transparent;
+	top: 0;
+	right: -50px;
+}
+.mean-container a.meanmenu-reveal {
+	width: 14px;
+	height: 0px;
+	background: #08237e;
+	top: -42px;
+	padding: 14px 12px 21px;
+}
+.mean-container .mean-bar {
+	top: 5px;
+}
+.slider-text .btn {
+	padding: 12px 25px;
+}
+.single-slider {
+	height: 360px;
+}
+.slider-text {
+	transform: translateY(53%);
+	margin-left: 0;
+	padding: 0;
+}
+.slider-text h2 {
+	font-size: 28px;
+	margin-bottom: 12px;
+}
+.slider-text p {
+	font-size: 13px;
+	margin-bottom: 17px;
+}
+.menu-btn .btn {
+	padding: 9px 12px;
+	margin-right: 20px;
+}
+.slider-area .arrows {
+	display: none;
+}
+.slider-area .slick-dots {
+	bottom: -20px;
+	left: 40%;
+}
+.section-title h4 {
+	font-size: 28px;
+	margin-bottom: 15px;
+}
+.about-area {
+	padding: 60px 0;
+}
+.about-area .section-title span {
+	font-size: 20px;
+	line-height: 30px;
+}
+.about-description p {
+	font-size: 13px;
+	line-height: 24px;
+	margin-top: 20px;
+}
+.single-about {
+	margin-top: 50px;
+}
+.single-about h6 {
+	font-size: 20px;
+}
+.single-about-2 {
+	padding: 0;
+}
+.service-area .section-title span {
+	font-size: 15px;
+	line-height: 26px;
+}
+.service-area {
+	padding: 55px 0 75px 0;
+}
+.video-area span {
+	font-size: 22px;
+}
+.video-area h2 {
+	font-size: 26px;
+	line-height: 40px;
+}
+.video-area .btn {
+	padding: 10px 23px;
+}
+.video-area {
+	height: 420px;
+}
+.portfolio-section {
+	padding: 50px 0;
+}
+.left-arrow, .right-arrow {
+	margin-top: 50px;
+}
+.single-portfolio img {
+	margin-top: 30px;
+}
+.single-portfolio h5 {
+	font-size: 18px;
+	margin-bottom: 34px;
+}
+.consultant-active {
+	padding: 70px 0 0 0;
+}
+.consultant p {
+	font-size: 20px;
+	line-height: 30px;
+}
+.consultant-text {
+	top: 165px;
+}
+.consultant h6 {
+	font-size: 16px;
+	margin-bottom:10px;
+}
+.consultation-form {
+	padding: 20px;
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+.consultation-form h4 {
+	font-size: 24px;
+}
+.consultation-form input {
+	width: 350px;
+	height: 45px;
+	margin-bottom: 20px;
+	border: none;
+	padding: 0 20px;
+	font-size: 13px;
+}
+.consultation-area .nice-select {
+	font-size: 14px;
+	height: 45px;
+	line-height: 45px;
+	width: 240px;
+}
+.consultation-area .nice-select .option {
+	line-height: 45px;
+	min-height: 40px;
+	width: 240px;
+}
+.consultation-form textarea {
+	width: 350px;
+	height: 155px;
+	margin-bottom: 20px;
+	padding: 20px 20px;
+	font-size: 13px;
+}
+.consultation-area .btn {
+	width: 210px;
+	height: 50px;
+	padding-top: 16px;
+	font-size: 12px;
+}
+.brand-area {
+	padding: 70px 0;
+}
+.faq-img img {
+	margin-left: -25px;
+	width: 100%;
+}
+.faq-text {
+	margin-top: 55px;
+}
+.question-1, .question-2, .question-3 {
+	font-size: 15px;
+}
+.question-answer-1, .question-answer-2, .question-answer-3 {
+	padding: 15px 12px;
+}
+.question-1 span, .question-2 span, .question-3 span {
+	float: right;
+	font-size: 12px;
+	color: #333;
+	cursor: pointer;
+}
+.question-answer-3 {
+	margin-bottom: 70px;
+}
+.answer-1, .answer-2, .answer-3 {
+	font-size: 13px;
+}
+.blog-img img {
+	width: 100%;
+}
+.blog-text span {
+	margin-bottom: 30px;
+}
+.blog-text {
+	margin-bottom: 60px;
+}
+.blog-area {
+	padding: 60px 0;
+	background: #f7f7fd;
+}
+.blog-area {
+	padding: 60px 0 30px;
+}
+.footer-area {
+	height: 1080px;
+}
+.footer-area {
+	padding-top: 70px;
+}
+.widged-2 {
+	margin-top: 50px;
+}
+.widged-3 {
+	margin-top: 20px;
+}
+.footer-bottom {
+	text-align: center;
+}
+.footer-bottom p {
+	font-size: 14px;
+	float: none;
+	margin-left: 0;
+}
+.footer-bottom ul {
+	float: none;
+	margin-right: 0;
+}
+.footer-bottom ul li {
+	margin: 0 10px;
+}
+
+}
+
+
+@media (min-width:350px) and (max-width:449px){
+	
+.container{
+	max-width: 320px;
+}
+.top-header-area p {
+	text-align: center;
+}
+.social-icons::before {
+	width: 0;
+}
+.social-icons {
+	float: none;
+	display: block;
+	text-align: center;
+	margin-top: 13px;
+}
+.social-icons li {
+	list-style: none;
+	margin: 0 10px;
+	display: inline-block;
+}
+.cta {
+	float: left;
+}
+.single-cta {
+	margin-right: 17px;
+	margin-top: 10px;
+	margin-left: 0;
+}
+.single-cta.phone {
+	margin-left: 40px;
+	margin-right: 0;
+}
+.single-cta.meet-hour {
+	margin-right: 0;
+}
+.cta p {
+	font-size: 12px;
+}
+.menu-area {
+	background: transparent;
+	padding: 0;
+}
+.mean-container .mean-bar {
+	background: transparent;
+	top: 0;
+}
+.mean-container a.meanmenu-reveal {
+	width: 14px;
+	height: 0px;
+	background: #08237e;
+	top: -42px;
+	padding: 14px 12px 21px;
+}
+.menu-btn .btn {
+	padding: 9px 12px;
+	margin-right: 60px;
+}
+.mean-container .mean-bar {
+	top: 5px;
+}
+.slider-text .btn {
+	padding: 12px 25px;
+}
+.single-slider {
+	height: 360px;
+}
+.slider-text {
+	transform: translateY(36%);
+	margin-left: 0;
+	padding: 0;
+}
+.slider-text p {
+	font-size: 13px;
+	margin-bottom: 17px;
+}
+.slider-text .btn {
+	padding: 8px 10px;
+	font-size: 11px;
+}
+.slider-area .arrows {
+	display: none;
+}
+.slider-area .slick-dots {
+	bottom: -20px;
+	left: 38%;
+}
+.slider-text h2 {
+	font-size: 25px;
+	margin-bottom: 12px;
+}
+.section-title h4 {
+	font-size: 25px;
+	margin-bottom: 10px;
+	line-height: 50px;
+}
+.about-area {
+	padding: 60px 0;
+}
+.about-area .section-title span {
+	font-size: 20px;
+	line-height: 30px;
+}
+.about-description p {
+	font-size: 13px;
+	line-height: 24px;
+	margin-top: 20px;
+}
+.single-about {
+	margin-top: 50px;
+}
+.single-about h6 {
+	font-size: 20px;
+}
+.single-about-2 {
+	padding: 0;
+}
+.about-area {
+	padding: 60px 0;
+}
+.about-area .section-title span {
+	font-size: 20px;
+	line-height: 30px;
+}
+.about-description p {
+	font-size: 13px;
+	line-height: 24px;
+	margin-top: 20px;
+}
+.service-area {
+	padding: 55px 0 85px 0;
+}
+.service-area .section-title span {
+	font-size: 15px;
+	line-height: 25px;
+}
+.single-service img {
+	padding: 0 3%;
+}
+.video-area {
+	height: 400px;
+}
+.video-text {
+	transform: translateY(-35%);
+}
+.video-area h2 {
+	font-size: 25px;
+	line-height: 35px;
+	
+}
+.video-area .btn {
+	padding: 12px 24px;
+	margin-bottom: 30px;
+}
+.video-area .popup {
+	margin-left: -21px;
+}
+.portfolio-section {
+	padding: 60px 0;
+}
+.left-arrow, .right-arrow {
+	margin-top: 45px;
+}
+.single-portfolio img {
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+.consultant p {
+	font-size: 20px;
+	line-height: 30px;
+}
+.consultant-text {
+	top: 195px;
+}
+.consultant h6 {
+	font-size: 15px;
+	margin-bottom: 7px;
+}
+.consultant-active {
+	padding: 60px 0 0 0;
+}
+.consultation-area .arrows {
+	margin-top: -45px;
+}
+.consultation-form {
+	padding: 15px;
+	margin-top: 40px;
+	margin-bottom: 60px;
+}
+.consultation-form input {
+	width: 260px;
+	height: 45px;
+	margin-bottom: 20px;
+	font-size: 13px;
+	padding: 0 15px;
+}
+.consultation-form input::placeholder {
+	font-size: 13px;
+}
+.select {
+	left: 65px;
+}
+.consultation-area .nice-select {
+	font-size: 13px;
+	height: 45px;
+	line-height: 45px;
+	width: 180px;
+}
+.consultation-area .nice-select .option {
+	line-height: 45px;
+	padding-left: 13px;
+	width: 195px;
+}
+.consultation-area .nice-select::after {
+	border-bottom: 2px solid #bababa;
+	border-right: 2px solid #bababa;
+	height: 7px;
+	right: 0px;
+	width: 7px;
+}
+.consultation-form textarea {
+	width: 260px;
+	height: 135px;
+	margin-bottom: 30px;
+	border: none;
+	padding: 10px 15px;
+	font-size: 13px;
+	resize: none;
+}
+.consultation-form textarea::placeholder {
+	font-size: 13px;
+}
+.consultation-area .btn {
+	width: 190px;
+	height: 50px;
+	padding-top: 15px;
+	font-size: 12px;
+}
+.brand-area {
+	padding: 70px 0;
+}
+.brand-active img {
+	width: 100%;
+}
+.faq-img img {
+	margin-left: -45px;
+	width: 120%;
+}
+.faq-text {
+	margin-top: 65px;
+}
+.question-1, .question-2, .question-3 {
+	font-size: 14px;
+	position: relative;
+	width: 90%;
+}
+.answer-1, .answer-2, .answer-3 {
+	font-size: 14px;
+}
+.question-answer-1, .question-answer-2, .question-answer-3 {
+	padding: 13px 13px;
+}
+.question-1 span, .question-2 span, .question-3 span {
+	font-size: 14px;
+	position: absolute;
+	right: -24px;
+	top: 0;
+}
+.question-answer-3 {
+	margin-bottom: 60px;
+}
+.blog-area {
+	padding: 60px 0 30px 0;
+}
+.blog-img img {
+	width: 100%;
+}
+.blog-text {
+	margin-bottom: 60px;
+}
+.blog-text span {
+	margin-bottom: 30px;
+}
+.footer-area {
+	padding-top: 60px;
+	height: 1070px;
+}
+.widged-2 {
+	margin-top: 40px;
+}
+.widged-3 {
+	margin-top: 20px;
+}
+.footer-bottom {
+	text-align: center;
+	margin-top: 30px;
+}
+.footer-bottom p {
+	font-size: 13px;
+	float: none;
+	margin-left: 0;
+}
+.footer-bottom ul {
+	float: none;
+	margin-right: 0;
+}
+.footer-bottom ul li {
+	margin: 0 8px;
+}
+.footer-bottom ul li a {
+	font-size: 13px;
+}
+	
+}
+
+
+@media (min-width:250px) and (max-width:349px){
+
+.container{
+	max-width: 250px;
+}
+.top-header-area p {
+	font-size: 13px;
+	text-align: center;
+}
+.social-icons {
+	display: block;
+	float: none;
+	margin-bottom: 0;
+	text-align: center;
+	margin-top: 15px;
+}
+.social-icons li {
+	margin-left: 0;
+	display: inline-block;
+	margin: 0 7px;
+}
+.social-icons::before {
+	width: 0;
+}
+.cta {
+	float: left;
+}
+.single-cta {
+	margin-right: 17px;
+	margin-top: 10px;
+	margin-left: 0;
+}
+.single-cta.phone {
+	margin-left: 0;
+}
+.single-cta.meet-hour {
+	margin-right: 0;
+}
+.cta p {
+	font-size: 12px;
+}
+.menu-area {
+	background: transparent;
+	padding: 0;
+}
+.mean-container .mean-bar {
+	background: transparent;
+	top: 0;
+}
+.mean-container a.meanmenu-reveal {
+	width: 14px;
+	height: 0px;
+	background: #08237e;
+	top: -42px;
+	padding: 14px 12px 21px;
+}
+.menu-btn .btn {
+	padding: 9px 12px;
+	margin-right: 60px;
+}
+.mean-container .mean-bar {
+	top: 5px;
+}
+.single-slider {
+	height: 235px;
+}
+.slider-text {
+	transform: translateY(47%);
+	padding: 0;
+}
+.slider-text h2 {
+	font-size: 22px;
+	margin-bottom: 20px;
+}
+.slider-text p {
+	display: none;
+}
+.slider-text .btn {
+	font-size: 11px;
+	padding: 7px 12px;
+}
+.menu-btn .btn {
+	margin-top: 9px;
+	font-size: 11px;
+}
+.slider-area .arrows {
+	display: none;
+}
+.slider-area .slick-dots {
+	bottom: -27px;
+	left: 34%;
+}
+.section-title h4 {
+	font-size: 22px;
+	margin-bottom: 0px;
+	line-height: 60px;
+}
+.about-area {
+	padding: 30px 0;
+}
+.about-area .section-title h4::after {
+	width: 75px;
+	right: -83px;
+}
+.about-area .section-title span {
+	font-size: 15px;
+	line-height: 27px;
+}
+.about-description p {
+	font-size: 13px;
+	margin-top: 20px;
+	line-height: 24px;
+}
+.single-about {
+	margin-top: 30px;
+}
+.single-about h6 {
+	font-size: 18px;
+}
+.single-about p {
+	font-size: 14px;
+	line-height: 23px;
+}
+.single-about-2 {
+	padding: 0;
+}
+.service-area {
+	padding: 30px 0 55px 0;
+}
+.service-area .section-title h4::after {
+	width: 75px;
+	bottom: 20px;
+	right: -85px
+}
+.service-area .section-title {
+	margin-bottom: 40px;
+}
+.service-area .section-title span {
+	font-size: 15px;
+	line-height: 22px;
+}
+.single-service img {
+	padding: 0 107%;
+}
+.video-area {
+	height: 340px;
+}
+.video-text {
+	margin-top: 50%;
+	transform: translateY(-30%);
+	margin-right: 12px;
+}
+.video-area span {
+	font-size: 18px;
+	margin-bottom: 17px;
+}
+.video-area h2 {
+	font-size: 20px;
+	line-height: 30px;
+	margin-bottom: 25px;
+}
+.video-area .btn {
+	padding: 9px 17px;
+	margin-bottom: 20px;
+}
+.popup i {
+	font-size: 9px;
+	padding: 7px;
+	margin-left: 0;
+}
+.portfolio-section {
+	padding: 40px 0;
+}
+.section-title h4::after {
+	width: 80px;
+	right: -87px;
+}
+.left-arrow, .right-arrow {
+	margin-top: 35px;
+}
+.single-portfolio img {
+	margin-top: 30px;
+}
+.single-portfolio h5 {
+	font-size: 15px;
+	margin-bottom: 25px;
+}
+.single-portfolio a {
+	font-size: 13px;
+}
+.consultant-active {
+	padding: 50px 0 0 0;
+}
+.consultant p {
+	font-size: 17px;
+	line-height: 25px;
+}
+.consultant-text {
+	top: 195px;
+}
+.consultant h6 {
+	font-size: 13px;
+	margin-bottom: 7px;
+}
+.consultation-area .arrows {
+	cursor: pointer;
+	margin-top: -50px;
+	position: absolute;
+}
+.consultation-form {
+	padding: 10px;
+	margin-top: 0;
+	margin-bottom: 50px;
+	margin-top: 20px;
+}
+.consultation-form h4 {
+	font-size: 18px;
+}
+.consultation-form input {
+	width: 200px;
+	height: 40px;
+	margin-bottom: 17px;
+	padding: 0 10px;
+	font-size: 13px;
+}
+.consultation-form input::placeholder {
+	font-size: 12px;
+}
+.select {
+	left: 5px;
+}
+.consultation-area .nice-select {
+	font-size: 13px;
+	height: 40px;
+	line-height: 40px;
+	padding-left: 5px;
+	width: 195px;
+}
+.consultation-area .nice-select::after {
+	right: 12px;
+}
+.consultation-area .nice-select .option {
+	min-height: 40px;
+	padding-left: 8px;
+	width: 195px;
+}
+.consultation-form textarea::placeholder {
+	font-size: 12px;
+}
+.consultation-form textarea {
+	width: 200px;
+	height: 115px;
+	padding: 10px 10px;
+	font-size: 13px;
+	margin-bottom: 15px;
+}
+.consultation-area .btn {
+	width: 200px;
+	height: 45px;
+	padding-top: 13px;
+	font-size: 12px;
+}
+.brand-area {
+	padding: 50px 0;
+}
+.brand-active img {
+	margin: auto;
+	max-width: 100%;
+}
+.faq-img img {
+	margin-left: -35px;
+	display: inline-block;
+	width: 120%;
+}
+.faq-text {
+	margin-top: 45px;
+}
+.section-title h4 {
+	font-size: 18px;
+	margin-bottom: 0px;
+	line-height: 60px;
+}
+.faq-text span {
+	font-size: 14px;
+}
+.question-1, .question-2, .question-3 {
+	font-size: 14px;
+	position: relative;
+	width: 90%;
+}
+.answer-1, .answer-2, .answer-3 {
+	font-size: 14px;
+}
+.question-answer-1, .question-answer-2, .question-answer-3 {
+	padding: 13px 13px;
+}
+.question-1 span, .question-2 span, .question-3 span {
+	font-size: 14px;
+	position: absolute;
+	right: -24px;
+	top: 0;
+}
+.question-answer-3 {
+	margin-bottom: 50px;
+}
+.blog-area {
+	padding: 40px 0;
+}
+.blog-img img {
+	width: 100%;
+}
+.blog-text {
+	padding: 10px 15px;
+	background: #fff;
+	margin-bottom: 35px;
+}
+.blog-text h4 a {
+	font-size: 14px;
+	font-weight: 700;
+	color: #333;
+	line-height: 18px;
+}
+.blog-text span {
+	font-size: 14px;
+	margin-bottom: 30px;
+}
+.footer-area {
+	height: 1260px;
+	padding-top: 50px;
+}
+.footer-area .input-box input::placeholder {
+	font-size: 13px;
+}
+.footer-area .input-box input {
+	width: 220px;
+	height: 35px;
+	padding: 0 10px;
+	font-size: 13px;
+}
+.footer-area .input-box-icon {
+	left: 200px;
+	top: 12px;
+	font-size: 13px;
+}
+.widged-2 h3, .widged-3 h3 {
+	font-size: 18px;
+	color: #fff;
+	font-weight: 700;
+	margin-bottom: 30px;
+	margin-top: 40px;
+}
+.list-1 {
+	margin-bottom: 0;
+}
+.list-1 li, .list-2 li {
+	margin-bottom: 5px;
+}
+.widged-3 h3{
+	margin-top: 20px;
+}
+.widged-3 .social-icon li {
+	margin-right: 12px;
+}
+.widged-3 .social-icon li a {
+	font-size: 13px;
+}
+.footer-bottom {
+	margin-top: 30px;
+}
+.footer-bottom p {
+	font-size: 13px;
+	margin-left: 10px;
+}
+.footer-bottom ul {
+	margin-right: 0;
+	margin-left: 10px;
+}
+.footer-bottom ul li a {
+	font-size: 13px;
+}
+
+}
+
+
+
+
+
